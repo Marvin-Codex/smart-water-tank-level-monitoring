@@ -162,7 +162,7 @@ Small distance  =  High water (sensor close to water surface)
 
 ## Simulation
 
-Built and tested in [Tinkercad Circuits](https://www.tinkercad.com).
+Built and tested in [Tinkercad Circuits](https://www.tinkercad.com/things/75XCtipFoz3-smart-water-tank-level-monitoring?sharecode=VsUiFhV2e1XgXPiefALdM7UmUVJG2-VdTOeFIn80ats).
 
 To simulate:
 1. Open the Tinkercad project link
@@ -181,10 +181,11 @@ smart-water-tank-level-monitoring/
 ├── README.md               — Project documentation
 ├── water_tank_monitor.ino  — Arduino source code
 └── screenshots/
-    ├── circuit_overview.png
-    ├── simulation_critical.png
-    ├── simulation_medium.png
-    └── simulation_full.png
+    ├── circuit_overview.jpeg
+    ├── simulation_critical.jpeg
+    ├── simulation_low.jpeg
+    ├── simulation_medium.jpeg
+    └── simulation_full.jpeg
 ```
 
 ---
@@ -198,7 +199,12 @@ smart-water-tank-level-monitoring/
 
 ## Author
 
-**Marvin**  
+**Sserunjoji Marvin** 
+Registration: 23/2/370/W/203
+
+**Mukiibi Jumah** 
+Registration: 23/2/370/W/537
+
 Faculty of Science and Computing — Bachelor of Software Engineering  
 Ndejje University  
-Registration: 23/2/370/W/203
+
