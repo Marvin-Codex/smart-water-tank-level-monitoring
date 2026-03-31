@@ -178,7 +178,9 @@ To simulate:
 ```
 smart-water-tank-level-monitoring/
 │
-├── README.md               — Project documentation
+├── README.md  — Project documentation
+├── Schematics.pdf 
+├── components.csv           
 ├── water_tank_monitor.ino  — Arduino source code
 └── screenshots/
     ├── circuit_overview.jpeg
