@@ -194,8 +194,8 @@ smart-water-tank-level-monitoring/
 
 ## Demo Video
 
-[YouTube — Smart Water Tank Level Monitoring System](https://youtu.be/bkihrrmdNvwl?si=3lrPC32iXNXvT3nG)  
-*(Link to be added after upload)*
+[YouTube — Smart Water Tank Level Monitoring System](https://youtu.be/bkihrmdNvwI)  
+*Demo video showing system in action*
 
 ---
 
